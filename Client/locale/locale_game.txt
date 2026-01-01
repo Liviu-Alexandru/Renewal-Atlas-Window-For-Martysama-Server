@@ -1,0 +1,1 @@
+ATLAS_WINDOW_RESPAWN	[Respawn: %s]
