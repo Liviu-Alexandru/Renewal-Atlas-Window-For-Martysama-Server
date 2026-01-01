@@ -26,6 +26,7 @@
 		if (m_pkRegen && m_pkRegen->event)
 		{
 			const long lPulses = event_time(m_pkRegen->event);
+
 			if (lPulses > 0)
 				dwRemainSeconds = (DWORD)((lPulses + PASSES_PER_SEC(1) - 1) / PASSES_PER_SEC(1));
 		}
@@ -34,4 +35,5 @@
 			SECTREE_MANAGER::instance().BroadcastNPCPosition(GetMapIndex());
 	}
 #endif
+
 
