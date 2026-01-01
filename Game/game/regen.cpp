@@ -1,3 +1,7 @@
+# Add 
+
+#include "sectree_manager.h"
+
 # Search
 
 static void regen_spawn_dungeon(LPREGEN regen, LPDUNGEON pDungeon, bool bOnce)
@@ -127,3 +131,4 @@ static void regen_spawn(LPREGEN regen, bool bOnce)
 				}
 			}
 #endif
+
