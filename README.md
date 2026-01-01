@@ -1,1 +1,1 @@
-# Renewal Atlas Window For Martysama Server. #dracaryS Work
+# Renewal Atlas Window For Martysama Server
