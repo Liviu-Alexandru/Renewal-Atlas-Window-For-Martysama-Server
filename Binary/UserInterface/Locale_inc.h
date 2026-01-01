@@ -1,0 +1,4 @@
+# Add
+
+#define ENABLE_DUNGEON_BOSS_ICON_IN_MAP
+
