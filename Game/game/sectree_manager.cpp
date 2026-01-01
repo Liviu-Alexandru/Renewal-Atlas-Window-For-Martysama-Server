@@ -1,3 +1,7 @@
+# Add
+
+#include <unordered_map>
+
 # Search
 
 void SECTREE_MANAGER::InsertNPCPosition(long lMapIndex, BYTE bType, const char* szName, long x, long y)
@@ -221,4 +225,5 @@ void SECTREE_MANAGER::InsertNPCPosition(long lMapIndex, BYTE bType, const char* 
 		buf.write(&np, sizeof(np));
 	}
 #endif
+
 
