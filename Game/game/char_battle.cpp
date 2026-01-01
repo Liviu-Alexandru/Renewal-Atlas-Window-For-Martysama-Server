@@ -34,3 +34,4 @@
 			SECTREE_MANAGER::instance().BroadcastNPCPosition(GetMapIndex());
 	}
 #endif
+
